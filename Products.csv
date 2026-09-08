@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Sub_Category,Price
+101,Laptop,Electronics,Computers,55000
+102,Smartphone,Electronics,Mobile,30000
+103,Headphones,Electronics,Audio,2500
+104,Office Chair,Furniture,Chairs,7500
+105,Desk,Furniture,Tables,12000
+106,Backpack,Accessories,Bags,1800
+107,Keyboard,Electronics,Computer Accessories,1800
+108,Monitor,Electronics,Computers,15000
+109,Notebook,Stationery,Paper,250
+110,Pen Set,Stationery,Writing,300

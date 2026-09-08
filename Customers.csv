@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,City,Region
+C001,Rahul Sharma,Delhi,North
+C002,Priya Verma,Noida,North
+C003,Aman Singh,Lucknow,North
+C004,Neha Gupta,Jaipur,North
+C005,Rohit Kumar,Mumbai,West
+C006,Simran Kaur,Chandigarh,North
+C007,Arjun Mehta,Pune,West
+C008,Karan Patel,Ahmedabad,West
+C009,Ananya Das,Kolkata,East
+C010,Vikas Roy,Bengaluru,South
